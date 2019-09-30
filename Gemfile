@@ -31,7 +31,7 @@ group :test do
   gem 'rspec-rails', '~> 3.7', '>= 3.7.2'
 
   gem 'capybara', '>= 3.0.1', '< 4.0'
-  gem 'selenium-webdriver', '>= 3.11.0'
+  gem 'selenium-webdriver', '>= 3.142.3'
   gem 'chromedriver-helper', '>= 1.2.0'
 end
 
